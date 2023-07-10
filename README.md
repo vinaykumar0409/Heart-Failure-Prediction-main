@@ -60,4 +60,4 @@ Now hit the Predict button.
 If everything goes well, you should  be able to see the following output on the HTML page!
 ![alt text](./images/result.png)
 
-> Note : These steps are for deployment of model on localhost. You can also use Procfile to host it on Heroku Server.
+> Note : These steps are for deployment of model on localhost.
